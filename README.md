@@ -23,16 +23,17 @@ The dataset contains grayscale facial images with varying pose and lighting cond
 
 ```
 facial_recognition_classifier/
+├── assets/          # Documentation plots
 ├── data/            # UMIST dataset
-├── notebook/       # Jupyter notebook for analysis
+├── notebook/        # Jupyter notebook for analysis
 └── README.md
 ```
 
 ## Tech Stack
-- Python 3.8+
+- Python
 - TensorFlow/Keras
 - scikit-learn
-- NumPy, Pandas, Matplotlib
+- NumPy, Pandas, Matplotlib, SciPy, Seaborn
 
 ## Pipeline Overview
 
